@@ -1,7 +1,7 @@
 # Introduction 
 The project entails building a microblog to test Python Django skills.
 
-#Prerequisites
+# Prerequisites
 Ensure you have python3 installed on your environment.
 
 #### How to setup the project
